@@ -1,0 +1,105 @@
+body{
+    box-sizing: border-box;
+    padding-top: 40px;
+}
+
+
+.circular{
+    border-radius: 80%;
+     border-style:ridge;
+     border-color: #757575;
+    box-shadow: 10px 5px 5px #757575;
+    position: relative; 
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+.container-enc{
+    text-align: center;
+    background-image:url(https://http2.mlstatic.com/D_NQ_NP_829634-MCO46515183945_062021-V.jpg);
+}
+#acercademi{
+    background-image:url(https://http2.mlstatic.com/D_NQ_NP_829634-MCO46515183945_062021-V.jpg);
+}
+.formulario{
+    background-color: #D32F2F;
+    box-sizing: border-box;
+     width:100% ;
+     padding: 2%;
+     margin:auto;
+    text-align:left;
+}
+
+.lead{
+    font-weight: bolder;
+}
+
+.form-label{
+    text-align: left;
+}
+
+p{
+    font-family: 'Poiret One', cursive;
+}
+
+#titulo3{
+    text-align: left;
+    background-color: #D32F2F;
+}
+
+#Port{
+    text-align: center;
+    background-color: #D32F2F;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#contacto{
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.container-fluid{
+    text-align: center;
+    padding: 10px; width:100%;
+    height: 100%;
+    position: relative;
+}
+
+.fotos{
+     border-radius:6px;
+     align-items: center;
+    margin: 15px;max-width: 300px;
+    max-height: 300px;
+}
+
+#salmon{
+    background-color: #D32F2F;
+}
+
+#footer{
+    background-color:#757575  ;
+    color: white;
+    font-weight: bolder;
+}
+
+#copyright{
+    background-color:#424242 ;
+    color:white;
+    text-align: center ;
+}
+
+.btnbtnprimary{
+    border-color: #757575;
+}
+
+.resaltar{
+    font-weight: bolder;
+    font-family: 'Lucida Sans';
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+     padding-left: 0;
+     margin-bottom: 0; 
+     list-style: none;
+}
